@@ -1,3 +1,7 @@
+# FinalWhaat?
+
+This project aims to port render system from the legacy DirectDraw to the modern Direct2D without touching any unrelative logics, make it to be merged into other flavor forks easily.
+
 # FinalSun / FinalAlert (YR) 2 Mission Editor
 
 This repository contains the source code for the FinalSun/FinalAlert (YR) Mission Editor.
